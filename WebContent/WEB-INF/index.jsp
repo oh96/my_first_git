@@ -24,5 +24,7 @@
 	</ul>
 
 </body>
-<script></script>
+<script>
+	var obj = {};
+</script>
 </html>
